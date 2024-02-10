@@ -1,0 +1,42 @@
+/* SignUp.css */
+.sign-up-container {
+    text-align: center;
+  }
+  
+  .input-field {
+    margin: 10px;
+    padding: 8px;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .submit-button {
+    margin: 10px;
+    padding: 8px 20px;
+    background-color: #007bff; /* Change button color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3; /* Change button color on hover */
+  }
+  
+  .toggle-form {
+    color: #007bff; /* Change color of sign-in link */
+    text-decoration: underline; /* Add underline */
+    cursor: pointer;
+    margin-left: -358px;
+  }
+  
+  .success-message {
+    color: green;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
